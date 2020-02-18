@@ -8,7 +8,7 @@
 
 <blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
 
-# Repositório criado para armazenar todos os desafios do bootcamp
+# Repositório criado para armazenar todos os desafios do bootcamp que não fazem parte do desafio final
 
 ## DESAFIOS CONCLUÍDOS:
 
