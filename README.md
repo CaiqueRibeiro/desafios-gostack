@@ -14,3 +14,4 @@
 
 ### Desafio 1: Conceitos de NodeJS [[ir pra desafio](https://github.com/CaiqueRibeiro/desafios-gostack/tree/master/desafio-1)]
 ### Desafio 4: Introdução ao ReactJs (Facebook clone) [[ir pra desafio](https://github.com/CaiqueRibeiro/desafios-gostack/tree/master/desafio-4)]
+### Desafio 5: App de busca no Github [[ir pra desafio](https://github.com/CaiqueRibeiro/desafios-gostack/tree/master/desafio-5)]
